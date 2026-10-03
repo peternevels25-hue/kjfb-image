@@ -18,4 +18,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: ${{ secrets.DOCKER_USERNAME }}/monprojet:latest
+          tags: ${{ secrets.DOCKER_USERNAME }}/monprojet:KJ237
